@@ -1,0 +1,5 @@
+/bin/
+/target/
+/db/
+.idea/
+TetrisFx.iml
